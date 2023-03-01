@@ -1,0 +1,7 @@
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CalculadoraFaculdade\CalculadoraFaculdade\bin\Debug\CalculadoraFaculdade.exe.config
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CalculadoraFaculdade\CalculadoraFaculdade\bin\Debug\CalculadoraFaculdade.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CalculadoraFaculdade\CalculadoraFaculdade\bin\Debug\CalculadoraFaculdade.pdb
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.csproj.AssemblyReference.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.csproj.CoreCompileInputs.cache
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.exe
+C:\Users\luked\OneDrive\Área de Trabalho\Projects\CalculadoraFaculdade\CalculadoraFaculdade\obj\Debug\CalculadoraFaculdade.pdb
