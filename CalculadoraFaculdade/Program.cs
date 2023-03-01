@@ -67,6 +67,8 @@ namespace CalculadoraFaculdade
 
             }
 
+
+            // Impressão dos dados no posicionamento vetorial
             Console.WriteLine("Resultado de {0} e {1} é {2}  ",n1, n2, resultado);
 
             Console.ReadLine();
