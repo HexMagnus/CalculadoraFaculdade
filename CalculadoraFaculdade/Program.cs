@@ -109,12 +109,3 @@ namespace CalculadoraFaculdade
         }
     }
 }
-
-
-
-
-
-
-
-
-
